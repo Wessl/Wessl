@@ -10,11 +10,9 @@ Other links to various sites below ~
 
 The games I've released can be found on my [itch](https://wesslo.itch.io/) profile,
 
-my [Kattis](https://open.kattis.com/users/love-wessman) profile,
+here's my [Kattis](https://open.kattis.com/users/love-wessman) profile ,
 
-and my [codingame](https://www.codingame.com/profile/68b42ee1b72915526320328b719606574969183) profile,
-
-To be continued... :)
+and my [codingame](https://www.codingame.com/profile/68b42ee1b72915526320328b719606574969183) profile.
 
 <!--
 **Wessl/Wessl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
