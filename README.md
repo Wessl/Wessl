@@ -1,8 +1,8 @@
-### Hi! I like stuff. Below is some stuff I've contributed to / made! 
+### Hi there! Here are some things I've worked on! 
 
 - [enterpriselang](https://github.com/mal-lang/mitreattacklang) - Meta Attack Language based on the MITRE ATT&CK Matrix. 
 
-- [unfriendly AI](https://ldjam.com/events/ludum-dare/47/unfriendly-ai) - a game I made together with [Ottos8](https://github.com/Ottos8/) during the 72 hour game jam LDJAM 47! 
+- [Ballast](https://ldjam.com/events/ludum-dare/48/ballast) - a game I made together with [Ottos8](https://github.com/Ottos8/) during the 72 hour game jam LDJAM 49! 
 
 - [Relaxing Sarlacc Experience](https://ldjam.com/events/ludum-dare/46/relaxing-sarlacc-experience) - another game I made together with [Ottos8](https://github.com/Ottos8/), made during LDJAM 46! 
  
