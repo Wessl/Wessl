@@ -5,8 +5,6 @@
 - [enterpriselang](https://github.com/mal-lang/mitreattacklang) - Meta Attack Language based on the MITRE ATT&CK Matrix. 
 
 - [Ballast](https://ldjam.com/events/ludum-dare/48/ballast) - a game I made together with [Ottos8](https://github.com/Ottos8/) during the 72 hour game jam LDJAM 49! 
-
-- [Relaxing Sarlacc Experience](https://ldjam.com/events/ludum-dare/46/relaxing-sarlacc-experience) - another game I made together with [Ottos8](https://github.com/Ottos8/), made during LDJAM 46! 
  
 Also:
 
