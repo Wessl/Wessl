@@ -5,9 +5,9 @@ I'm a master's student of computer science at [KTH Royal Institute of Technology
 
 * 👩🏾‍💻Unity LiDAR Toolkit - ([Repo](https://github.com/Wessl/LiDAR-Toolkit), [Video](https://www.youtube.com/watch?v=RB-0QVYpUpk)) - Highly customizable & efficient point cloud viewer/simulator. Uses burst, jobs and GPU based rendering to make it efficient. Feel free to download and try it!
 
-* 🌱[Procedural Vegetation Distribution](https://github.com/Wessl/dd2470project/blob/main/README.md) - Places plants procedurally across a Unity terrain, taking moisture, height, slope, etc into account!
+* 💃 Bad Apple but the resolution increases over time ([Repo](https://github.com/Wessl/badappleCRT), [Video](https://www.youtube.com/watch?v=NCjL-MBliqY)) - Every pixel is actually a fully rendered cube living in 3d space, rendered in real time :D
 
-* 🛡️[enterpriselang](https://github.com/mal-lang/mitreattacklang) - Meta Attack Language based on the MITRE ATT&CK Matrix. 
+* 🌱[Procedural Vegetation Distribution](https://github.com/Wessl/dd2470project/blob/main/README.md) - Places plants procedurally across a Unity terrain, taking moisture, height, slope, etc into account!
 
 * ⚡[LiDAR Game](https://github.com/Wessl/LiDAR-game) - A game I made to explore efficient point cloud generation & rendering on the GPU, made in Unity/C#/HLSL! 
 
